@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Razor1EmployeeDetailsProj.Models\Razor1EmployeeDetailsProj.Models.csproj" />
+  </ItemGroup>
+
+</Project>
